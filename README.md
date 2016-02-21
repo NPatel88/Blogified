@@ -1,0 +1,2 @@
+# Blogified
+A Sample repository
